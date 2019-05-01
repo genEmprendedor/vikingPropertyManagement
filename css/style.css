@@ -122,17 +122,30 @@ body {
   margin-left: 1rem;
 }
 
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  transition: 0.3s;
-  border-radius: 5px; /* 5px rounded corners */
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+/* Business Card */
+
+.quinn-container {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  background: inherit;
+}
+
+.quinn-card {
+  background: var(--highlight-color);
+  margin: auto;
+  text-align: center;
 }
 
 img {
-  border-radius: 5px 5px 0 0;
-  max-width: 500px;
+  border-radius: 50%;
+  max-width: 100rem;
+  padding: 1rem;
+}
+
+.meet-quinn {
+  margin-top: 1rem;
 }
 
 /* Services */
