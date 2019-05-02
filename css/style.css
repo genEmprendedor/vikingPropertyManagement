@@ -80,12 +80,6 @@ body {
   position: relative;
 }
 
-/* #about .topSpace {
-  background: var(--primary-color);
-  height: 10.5vh;
-  margin-bottom: 0.05rem;
-} */
-
 #about .about-container {
   display: flex;
   flex-direction: column;
@@ -148,11 +142,6 @@ img {
 }
 
 /* Services */
-/*#services .topSpace {
-  background: var(--primary-color);
-  height: 10.5vh;
-  margin-bottom: 0.05rem;
-} */
 
 #services .services-container {
   display: flex;
@@ -195,11 +184,6 @@ img {
 }
 
 /* Section: Contact */
-/*#contact .topSpace {
-  background: var(--primary-color);
-  height: 10.5vh;
-  margin-bottom: 0.05rem;
-} */
 
 #contact .contact-showcase {
   display: flex;
