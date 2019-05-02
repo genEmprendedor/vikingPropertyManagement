@@ -1,0 +1,10 @@
+/* mobile phones vertical */
+@media screen and (max-width:500px) {
+#callNow .callNow-container {
+    flex-direction: column;
+}
+#callNow .cosa {
+    margin: 1rem;
+}
+
+}

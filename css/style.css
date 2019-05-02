@@ -77,15 +77,14 @@ body {
 #about {
   background: var(--generic-color);
   color: #000000;
-  /*height: 100vh; */
   position: relative;
 }
 
-#about .topSpace {
+/* #about .topSpace {
   background: var(--primary-color);
   height: 10.5vh;
   margin-bottom: 0.05rem;
-}
+} */
 
 #about .about-container {
   display: flex;
@@ -149,11 +148,11 @@ img {
 }
 
 /* Services */
-#services .topSpace {
+/*#services .topSpace {
   background: var(--primary-color);
   height: 10.5vh;
   margin-bottom: 0.05rem;
-}
+} */
 
 #services .services-container {
   display: flex;
@@ -196,11 +195,11 @@ img {
 }
 
 /* Section: Contact */
-#contact .topSpace {
+/*#contact .topSpace {
   background: var(--primary-color);
   height: 10.5vh;
   margin-bottom: 0.05rem;
-}
+} */
 
 #contact .contact-showcase {
   display: flex;
@@ -320,7 +319,7 @@ footer {
 }
 
 footer #madeby {
-  font-size: 0.5rem;
+  font-size: 0.75rem;
   padding: 0.15rem;
 }
 
